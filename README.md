@@ -1,4 +1,4 @@
-# 100 Essential Aws Interview Questions
+# 100 Essential AWS Interview Questions
 
 <div>
 <p align="center">
